@@ -11,3 +11,8 @@ npm i -g pokesay
 ```
 pokesay "<your message here>"
 ```
+
+You can also specify a pokemon name parameter ([supported pokemon list](https://github.com/anvit/pokesay/tree/main/ascii/))
+```
+pokesay "<your message here>" <pokemon name>
+```
