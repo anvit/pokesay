@@ -18,3 +18,4 @@ You can also specify a pokemon name parameter ([supported pokemon list](https://
 ```
 pokesay "<your message here>" <pokemon name>
 ```
+where "pokemon name" can be "bulbasaur", "charmander", "squirtle" or "pikachu" (by default).
